@@ -21,4 +21,4 @@ To view your transaction history.
 To quit the application.
 
 # Acknowledgements<br />
-This project was inspired by similar banking system applications and was created as a learning exercise to practice programming in Python.
+This project was inspired by similar banking system applications and was created as a learning exercise to practice programming in Core Java.
